@@ -23,10 +23,10 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://moneybox.github.io/statusmoneybox)
+[**Visit our status website →**](https://angelcantu84.github.io/statusmoneybox)
 
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [Moneybox](https://moneybox.github.io/statusmoneybox)
+- Code: [MIT](./LICENSE) © [Moneybox](https://angelcantu84.github.io/statusmoneybox)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
