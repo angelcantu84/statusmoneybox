@@ -22,7 +22,7 @@ status-website:
   baseUrl: /statusmoneybox
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: moneyBox Status Services
-  introMessage: Este portal proporciona el estatus de nuestros servicios almacenados en AWS Amazon, para brindar mejor disponibilidad hemos colocado este monitor un servicios externo [**Clic para Soporte**](soporte@moneybox.business)
+  introMessage: Este portal proporciona el estatus de nuestros servicios almacenados en AWS Amazon, para brindar mejor disponibilidad hemos colocado este monitor un servicios externo [**Clic para Soporte**](mailto:soporte@moneybox.business)
   navbar:
     - title: Status
       href: /
