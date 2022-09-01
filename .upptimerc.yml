@@ -5,12 +5,16 @@ repo: statusmoneybox # The name of this repository
 sites:
   - name: API
     url: https://api.moneybox.business
+    maxResponseTime: 5000
   - name: SANDBOX
     url: https://sandbox.moneybox.business
+    maxResponseTime: 5000
   - name: DEV
     url: https://dev.moneybox.business
+    maxResponseTime: 5000
   - name: CORE
     url: https://core.moneybox.business
+    maxResponseTime: 5000
 
 assignees:
   - angelcantu84
