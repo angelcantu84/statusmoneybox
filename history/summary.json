@@ -40,18 +40,20 @@
     "url": "https://dev.moneybox.business",
     "icon": "https://icons.duckduckgo.com/ip3/dev.moneybox.business.ico",
     "slug": "dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 269,
-    "timeWeek": 244,
-    "timeMonth": 200,
-    "timeYear": 229,
-    "dailyMinutesDown": {}
+    "time": 230,
+    "timeDay": 289,
+    "timeWeek": 252,
+    "timeMonth": 204,
+    "timeYear": 230,
+    "dailyMinutesDown": {
+      "2022-10-11": 0
+    }
   },
   {
     "name": "CORE",
