@@ -4,18 +4,20 @@
     "url": "https://api.moneybox.business",
     "icon": "https://icons.duckduckgo.com/ip3/api.moneybox.business.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 302,
-    "timeDay": 215,
-    "timeWeek": 287,
-    "timeMonth": 301,
-    "timeYear": 302,
-    "dailyMinutesDown": {}
+    "time": 300,
+    "timeDay": 184,
+    "timeWeek": 271,
+    "timeMonth": 296,
+    "timeYear": 300,
+    "dailyMinutesDown": {
+      "2022-10-28": 0
+    }
   },
   {
     "name": "SANDBOX",
