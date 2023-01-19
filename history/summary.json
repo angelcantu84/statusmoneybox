@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sandbox.moneybox.business.ico",
     "slug": "sandbox",
     "status": "up",
-    "uptime": "98.78%",
+    "uptime": "98.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.31%",
-    "uptimeYear": "98.78%",
+    "uptimeYear": "98.79%",
     "time": 292,
     "timeDay": 336,
     "timeWeek": 308,
@@ -67,17 +67,19 @@
     "url": "https://core.moneybox.business",
     "icon": "https://icons.duckduckgo.com/ip3/core.moneybox.business.ico",
     "slug": "core",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 305,
-    "timeDay": 219,
-    "timeWeek": 316,
-    "timeMonth": 329,
-    "timeYear": 305,
-    "dailyMinutesDown": {}
+    "time": 304,
+    "timeDay": 211,
+    "timeWeek": 302,
+    "timeMonth": 326,
+    "timeYear": 304,
+    "dailyMinutesDown": {
+      "2023-01-19": 0
+    }
   }
 ]
