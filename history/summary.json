@@ -24,9 +24,9 @@
     "url": "https://sandbox.moneybox.business",
     "icon": "https://icons.duckduckgo.com/ip3/sandbox.moneybox.business.ico",
     "slug": "sandbox",
-    "status": "up",
+    "status": "down",
     "uptime": "98.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.31%",
     "uptimeYear": "98.85%",
@@ -36,6 +36,7 @@
     "timeMonth": 337,
     "timeYear": 296,
     "dailyMinutesDown": {
+      "2023-01-28": 0,
       "2023-01-11": 1328,
       "2023-01-10": 1165
     }
