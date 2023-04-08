@@ -4,9 +4,9 @@
     "url": "https://api.moneybox.business",
     "icon": "https://icons.duckduckgo.com/ip3/api.moneybox.business.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 337,
     "timeYear": 355,
     "dailyMinutesDown": {
+      "2023-04-08": 0,
       "2022-10-28": 30
     }
   },
@@ -25,11 +26,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sandbox.moneybox.business.ico",
     "slug": "sandbox",
     "status": "up",
-    "uptime": "96.69%",
+    "uptime": "96.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.69%",
+    "uptimeYear": "96.70%",
     "time": 288,
     "timeDay": 79,
     "timeWeek": 309,
