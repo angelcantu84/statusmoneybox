@@ -4,9 +4,9 @@
     "url": "https://api.moneybox.business",
     "icon": "https://icons.duckduckgo.com/ip3/api.moneybox.business.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 403,
     "timeYear": 361,
     "dailyMinutesDown": {
+      "2023-05-12": 0,
       "2023-04-08": 22,
       "2022-10-28": 30
     }
@@ -27,9 +28,9 @@
     "slug": "sandbox",
     "status": "down",
     "uptime": "96.03%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "74.89%",
-    "uptimeMonth": "90.76%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "74.76%",
+    "uptimeMonth": "90.73%",
     "uptimeYear": "96.03%",
     "time": 299,
     "timeDay": 287,
@@ -37,7 +38,7 @@
     "timeMonth": 363,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2023-05-12": 0,
+      "2023-05-12": 13,
       "2023-05-10": 16,
       "2023-05-08": 1179,
       "2023-05-07": 1337,
@@ -64,7 +65,7 @@
     "uptime": "94.51%",
     "uptimeDay": "17.26%",
     "uptimeWeek": "38.72%",
-    "uptimeMonth": "59.73%",
+    "uptimeMonth": "59.70%",
     "uptimeYear": "94.51%",
     "time": 296,
     "timeDay": 703,
@@ -72,7 +73,7 @@
     "timeMonth": 355,
     "timeYear": 296,
     "dailyMinutesDown": {
-      "2023-05-12": 79,
+      "2023-05-12": 92,
       "2023-05-11": 1440,
       "2023-05-10": 1345,
       "2023-05-08": 1179,
@@ -103,9 +104,9 @@
     "slug": "core",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 320,
     "timeDay": 405,
@@ -113,7 +114,7 @@
     "timeMonth": 347,
     "timeYear": 320,
     "dailyMinutesDown": {
-      "2023-05-12": 0,
+      "2023-05-12": 13,
       "2023-01-19": 21
     }
   }
