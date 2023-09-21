@@ -15,6 +15,12 @@ sites:
   - name: CORE
     url: https://core.moneybox.business
     maxResponseTime: 5000
+  - name: DIAN-Sandbox
+    url: https://vpfe-hab.dian.gov.co/WcfDianCustomerServices.svc?wsdl
+    maxResponseTime: 5000
+  - name: DIAN-Produccion
+    url: https://vpfe.dian.gov.co/WcfDianCustomerServices.svc?wsdl
+    maxResponseTime: 5000
 
 assignees:
   - angelcantu84
