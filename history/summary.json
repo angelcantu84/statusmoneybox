@@ -79,7 +79,7 @@
     "status": "up",
     "uptime": "85.36%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "68.87%",
+    "uptimeWeek": "69.12%",
     "uptimeMonth": "33.01%",
     "uptimeYear": "84.24%",
     "time": 316,
@@ -204,19 +204,19 @@
     "url": "https://vpfe.dian.gov.co/WcfDianCustomerServices.svc?wsdl",
     "icon": "https://icons.duckduckgo.com/ip3/vpfe.dian.gov.co.ico",
     "slug": "dian-produccion",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 131,
-    "timeDay": 94,
-    "timeWeek": 131,
-    "timeMonth": 131,
-    "timeYear": 131,
+    "status": "up",
+    "uptime": "99.66%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
+    "time": 130,
+    "timeDay": 104,
+    "timeWeek": 130,
+    "timeMonth": 130,
+    "timeYear": 130,
     "dailyMinutesDown": {
-      "2023-09-27": 0
+      "2023-09-27": 25
     }
   }
 ]
