@@ -1,7 +1,7 @@
 url: https://api.moneybox.business
-status: down
-code: 502
-responseTime: 1764
-lastUpdated: 2023-12-27T02:46:02.721Z
+status: up
+code: 200
+responseTime: 567
+lastUpdated: 2023-12-27T02:57:44.739Z
 startTime: 2022-08-30T02:33:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
