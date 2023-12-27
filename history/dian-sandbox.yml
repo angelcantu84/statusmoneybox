@@ -1,7 +1,7 @@
 url: https://vpfe-hab.dian.gov.co/WcfDianCustomerServices.svc?wsdl
-status: degraded
+status: up
 code: 200
-responseTime: 7013
-lastUpdated: 2023-12-27T15:36:47.818Z
+responseTime: 201
+lastUpdated: 2023-12-27T15:48:05.080Z
 startTime: 2023-09-21T23:46:31.777Z
 generator: Upptime <https://github.com/upptime/upptime>
