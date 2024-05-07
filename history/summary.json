@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 459,
-    "timeDay": 380,
-    "timeWeek": 298,
+    "timeDay": 347,
+    "timeWeek": 291,
     "timeMonth": 348,
     "timeYear": 493,
     "dailyMinutesDown": {
@@ -41,10 +41,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.78%",
-    "time": 349,
-    "timeDay": 228,
-    "timeWeek": 308,
-    "timeMonth": 839,
+    "time": 348,
+    "timeDay": 247,
+    "timeWeek": 269,
+    "timeMonth": 833,
     "timeYear": 365,
     "dailyMinutesDown": {
       "2024-04-04": 108,
@@ -67,8 +67,7 @@
       "2023-07-06": 20,
       "2023-06-29": 830,
       "2023-05-12": 25,
-      "2023-05-10": 16,
-      "2023-05-08": 1179
+      "2023-05-10": 16
     }
   },
   {
@@ -77,15 +76,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.moneybox.business.ico",
     "slug": "dev",
     "status": "up",
-    "uptime": "90.46%",
+    "uptime": "90.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "86.80%",
     "time": 313,
-    "timeDay": 362,
-    "timeWeek": 283,
-    "timeMonth": 308,
+    "timeDay": 392,
+    "timeWeek": 307,
+    "timeMonth": 305,
     "timeYear": 313,
     "dailyMinutesDown": {
       "2024-04-04": 899,
@@ -143,8 +142,7 @@
       "2023-05-18": 977,
       "2023-05-12": 104,
       "2023-05-11": 1440,
-      "2023-05-10": 1345,
-      "2023-05-08": 1179
+      "2023-05-10": 1345
     }
   },
   {
@@ -159,9 +157,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 331,
-    "timeDay": 386,
-    "timeWeek": 261,
-    "timeMonth": 276,
+    "timeDay": 488,
+    "timeWeek": 264,
+    "timeMonth": 284,
     "timeYear": 330,
     "dailyMinutesDown": {
       "2024-03-31": 24,
@@ -181,11 +179,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.90%",
-    "time": 490,
-    "timeDay": 152,
-    "timeWeek": 277,
-    "timeMonth": 772,
-    "timeYear": 490,
+    "time": 488,
+    "timeDay": 114,
+    "timeWeek": 272,
+    "timeMonth": 769,
+    "timeYear": 488,
     "dailyMinutesDown": {
       "2024-04-25": 19,
       "2024-04-18": 41,
@@ -209,9 +207,9 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.77%",
     "time": 237,
-    "timeDay": 115,
-    "timeWeek": 284,
-    "timeMonth": 292,
+    "timeDay": 93,
+    "timeWeek": 283,
+    "timeMonth": 288,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2024-05-01": 64,
