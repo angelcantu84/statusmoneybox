@@ -1,7 +1,7 @@
 url: https://vpfe.dian.gov.co/WcfDianCustomerServices.svc?wsdl
-status: down
-code: 504
-responseTime: 2100
-lastUpdated: 2025-09-15T19:48:06.755Z
+status: up
+code: 200
+responseTime: 505
+lastUpdated: 2025-09-15T19:59:55.426Z
 startTime: 2023-09-21T23:46:32.344Z
 generator: Upptime <https://github.com/upptime/upptime>
