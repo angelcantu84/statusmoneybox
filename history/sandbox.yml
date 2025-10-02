@@ -1,7 +1,7 @@
 url: https://sandbox.moneybox.business
-status: degraded
-code: 522
-responseTime: 19726
-lastUpdated: 2025-10-02T06:50:37.660Z
+status: up
+code: 200
+responseTime: 451
+lastUpdated: 2025-10-02T07:00:36.029Z
 startTime: 2022-08-30T02:33:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
