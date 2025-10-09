@@ -1,7 +1,7 @@
 url: https://vpfe-hab.dian.gov.co/WcfDianCustomerServices.svc?wsdl
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-09T07:54:38.399Z
+status: up
+code: 200
+responseTime: 147
+lastUpdated: 2025-10-09T08:26:33.639Z
 startTime: 2023-09-21T23:46:31.777Z
 generator: Upptime <https://github.com/upptime/upptime>
