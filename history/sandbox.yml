@@ -1,7 +1,7 @@
 url: https://sandbox.moneybox.business
-status: up
-code: 200
-responseTime: 411
-lastUpdated: 2025-11-17T23:18:49.238Z
+status: down
+code: 500
+responseTime: 129
+lastUpdated: 2025-11-18T11:43:28.497Z
 startTime: 2022-08-30T02:33:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
