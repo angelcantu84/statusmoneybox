@@ -6,9 +6,9 @@
     "slug": "api",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "97.96%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.52%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.55%",
     "uptimeYear": "99.72%",
     "time": 773,
     "timeDay": 10091,
@@ -16,7 +16,7 @@
     "timeMonth": 1362,
     "timeYear": 750,
     "dailyMinutesDown": {
-      "2025-11-25": 29,
+      "2025-11-25": 19,
       "2025-11-18": 180,
       "2025-09-23": 33,
       "2025-09-21": 310,
@@ -81,7 +81,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/core.moneybox.business.ico",
     "slug": "core",
     "status": "down",
-    "uptime": "62.86%",
+    "uptime": "62.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -92,7 +92,8 @@
     "timeMonth": 250,
     "timeYear": 365,
     "dailyMinutesDown": {
-      "2025-11-25": 1411,
+      "2025-11-26": 83,
+      "2025-11-25": 1440,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
@@ -455,8 +456,7 @@
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
-      "2024-11-27": 1440,
-      "2024-11-26": 1440
+      "2024-11-27": 1440
     }
   },
   {
