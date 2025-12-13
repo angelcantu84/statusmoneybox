@@ -1,7 +1,7 @@
 url: https://core.moneybox.business
-status: down
+status: degraded
 code: 403
-responseTime: 99
-lastUpdated: 2025-12-12T23:19:57.661Z
+responseTime: 5084
+lastUpdated: 2025-12-13T10:21:38.385Z
 startTime: 2022-08-30T02:33:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
